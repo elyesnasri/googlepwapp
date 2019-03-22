@@ -1,19 +1,23 @@
-Contributor License Agreements
+# How to Contribute
 
-We'd love to accept your sample apps and patches! Before we can take them, we have to jump a couple of legal hurdles.
+We'd love to accept your patches and contributions to this project. There are
+just a few small guidelines you need to follow.
 
-Please fill out either the individual or corporate Contributor License Agreement (CLA).
+## Contributor License Agreement
 
-If you are an individual writing original source code and you‘re sure you own the intellectual property, then you’ll need to sign an [individual CLA] (https://developers.google.com/open-source/cla/individual).
-If you work for a company that wants to allow you to contribute your work, then you'll need to sign a [corporate CLA] (https://developers.google.com/open-source/cla/corporate).
-Follow either of the two links above to access the appropriate CLA and instructions for how to sign and return it. Once we receive it, we'll be able to accept your pull requests.
+Contributions to this project must be accompanied by a Contributor License
+Agreement. You (or your employer) retain the copyright to your contribution,
+this simply gives us permission to use and redistribute your contributions as
+part of the project. Head over to <https://cla.developers.google.com/> to see
+your current agreements on file or to sign a new one.
 
-Contributing A Patch
+You generally only need to submit a CLA once, so if you've already submitted one
+(even if it was for a different project), you probably don't need to do it
+again.
 
-Submit an issue describing your proposed change to the repo in question.
-The repo owner will respond to your issue promptly.
-If your proposed change is accepted, and you haven't already done so, sign a Contributor License Agreement (see details above).
-Fork the desired repo, develop and test your code changes.
-Ensure that your code adheres to the existing style in the sample to which you are contributing. Refer to the [Google Cloud Platform Samples Style Guide] (https://github.com/GoogleCloudPlatform/Template/wiki/style.html) for the recommended coding standards for this organization.
-Ensure that your code has an appropriate set of unit tests which all pass.
-Submit a pull request.
+## Code reviews
+
+All submissions, including submissions by project members, require review. We
+use GitHub pull requests for this purpose. Consult
+[GitHub Help](https://help.github.com/articles/about-pull-requests/) for more
+information on using pull requests.
