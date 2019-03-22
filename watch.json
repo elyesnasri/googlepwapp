@@ -1,0 +1,13 @@
+{
+  "restart": {
+    "exclude": [
+      "^public/"
+    ],
+    "include": [
+      "\\.env$",
+      "\\.js$",
+      "\\.json"
+    ]
+  },
+  "throttle": 500
+}
