@@ -12,8 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-// CODELAB: Update cache names each time the service worker or any of the
-// files change.
+// CODELAB: Update cache names any time any of the cached files change.
 const CACHE_NAME = 'static-cache-v1';
 
 // CODELAB: Add list of files to cache here.
@@ -31,7 +30,7 @@ self.addEventListener('activate', (evt) => {
   console.log('[ServiceWorker] Activate');
   // CODELAB: Remove previous cached data from disk.
 
-  return self.clients.claim();
+  self.clients.claim();
 });
 
 self.addEventListener('fetch', (evt) => {
