@@ -1,7 +1,7 @@
-# Your first Progressive Web App Code Lab
+# Your first Progressive Web App Codelab
 
 These are the resource files needed for the [Your first Progressive Web App][codelab]
-code lab from Google.
+codelab from Google.
 
 This is a work in progress, if you find a mistake, please [file an issue][git-issue].
 Thanks!
