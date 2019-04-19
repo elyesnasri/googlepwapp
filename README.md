@@ -1,19 +1,28 @@
-# Your first Progressive Web App Code Lab
+# Your first Progressive Web App Codelab
 
-These are the resource files needed for the [Your first Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp/)
-code lab from Google.
+These are the resource files needed for the [Your first Progressive Web App][codelab]
+codelab from Google.
 
-This is a work in progress, if you find a mistake, please [file an issue](https://github.com/googlecodelabs/your-first-pwapp/issues). Thanks!
+This is a work in progress, if you find a mistake, please [file an issue][git-issue].
+Thanks!
 
-## What you’ll learn
-* How to design and construct an app using the “app shell” method
-* How to make your app work offline
-* How to store data for use offline later
+[codelab]: https://codelabs.developers.google.com/codelabs/your-first-pwapp/
+[git-issue]: https://github.com/googlecodelabs/your-first-pwapp/issues
 
-## What you’ll need
-* Chrome 52 or above, though any browser that supports service workers and `cache.addAll()` will work
-* [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb), or use your own web server of choice.
-* The [sample code](https://github.com/googlecodelabs/your-first-pwapp/archive/master.zip)
-* A text editor
-* Basic knowledge of HTML, CSS and JavaScript
-* (Optional) Node is required in the last step to deploy to Firebase
+## License
+
+Copyright 2019 Google, Inc.
+
+Licensed to the Apache Software Foundation (ASF) under one or more contributor
+license agreements. See the NOTICE file distributed with this work for
+additional information regarding copyright ownership. The ASF licenses this
+file to you under the Apache License, Version 2.0 (the “License”); you may not
+use this file except in compliance with the License. You may obtain a copy of
+the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed
+under the License is distributed on an “AS IS” BASIS, WITHOUT WARRANTIES OR
+CONDITIONS OF ANY KIND, either express or implied. See the License for the
+specific language governing permissions and limitations under the License.
