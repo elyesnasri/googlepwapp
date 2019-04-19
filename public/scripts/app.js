@@ -163,6 +163,7 @@ function getForecastFromNetwork(coords) {
  */
 function getForecastFromCache(coords) {
   // CODELAB: Add code to get weather forecast from the caches object.
+
 }
 
 /**
@@ -197,6 +198,8 @@ function updateData() {
     const location = weatherApp.selectedLocations[key];
     const card = getForecastCard(location);
     // CODELAB: Add code to call getForecastFromCache
+
+    // Get the forecast data from the network.
     getForecastFromNetwork(location.geo)
         .then((forecast) => {
           renderForecast(card, forecast);
